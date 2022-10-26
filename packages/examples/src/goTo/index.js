@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { Page, Document, Link, View, Image } from '@react-pdf/renderer';
+import { Page, Document, Link, View, Image } from '@lachie-pdf/renderer';
 
 export default () => (
   <Document>

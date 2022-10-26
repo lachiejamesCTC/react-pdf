@@ -1,5 +1,5 @@
-import Yoga from '@react-pdf/yoga';
-import { isNil } from '@react-pdf/fns';
+import Yoga from '@lachie-pdf/yoga';
+import { isNil } from '@lachie-pdf/fns';
 
 /**
  * Set position type attribute to node's Yoga instance

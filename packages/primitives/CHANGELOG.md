@@ -1,4 +1,4 @@
-# @react-pdf/primitives
+# @lachie-pdf/primitives
 
 ## 3.0.1
 

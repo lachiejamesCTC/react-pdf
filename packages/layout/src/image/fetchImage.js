@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 
-import resolveImage from '@react-pdf/image';
+import resolveImage from '@lachie-pdf/image';
 
 import getSource from './getSource';
 import resolveSource from './resolveSource';

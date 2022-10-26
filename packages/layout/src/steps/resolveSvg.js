@@ -1,6 +1,6 @@
-import * as P from '@react-pdf/primitives';
-import { transformColor, processTransform } from '@react-pdf/stylesheet';
-import { pick, evolve, compose, mapValues, matchPercent } from '@react-pdf/fns';
+import * as P from '@lachie-pdf/primitives';
+import { transformColor, processTransform } from '@lachie-pdf/stylesheet';
+import { pick, evolve, compose, mapValues, matchPercent } from '@lachie-pdf/fns';
 
 import layoutText from '../svg/layoutText';
 import replaceDefs from '../svg/replaceDefs';

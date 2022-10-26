@@ -1,4 +1,4 @@
-# @react-pdf/fns
+# @lachie-pdf/fns
 
 ## 2.0.0
 

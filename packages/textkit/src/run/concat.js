@@ -1,4 +1,4 @@
-import { last } from '@react-pdf/fns';
+import { last } from '@lachie-pdf/fns';
 
 import length from './length';
 import normalizeIndices from '../indices/normalize';

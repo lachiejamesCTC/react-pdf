@@ -7,7 +7,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@lachie-pdf/renderer';
 
 import Header from './Header';
 import Skills from './Skills';

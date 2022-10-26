@@ -1,4 +1,4 @@
-# @react-pdf/png-js
+# @lachie-pdf/png-js
 
 ## 2.2.0
 

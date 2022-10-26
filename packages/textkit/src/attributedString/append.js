@@ -1,4 +1,4 @@
-import { last } from '@react-pdf/fns';
+import { last } from '@lachie-pdf/fns';
 
 import emptyRun from '../run/empty';
 import appendToRun from '../run/append';

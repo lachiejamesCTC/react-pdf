@@ -1,4 +1,4 @@
-# @react-pdf/types
+# @lachie-pdf/types
 
 ## 2.1.0
 

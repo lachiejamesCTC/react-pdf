@@ -1,7 +1,7 @@
-import FontStore from '@react-pdf/font';
-import renderPDF from '@react-pdf/render';
-import PDFDocument from '@react-pdf/pdfkit';
-import layoutDocument from '@react-pdf/layout';
+import FontStore from '@lachie-pdf/font';
+import renderPDF from '@lachie-pdf/render';
+import PDFDocument from '@lachie-pdf/pdfkit';
+import layoutDocument from '@lachie-pdf/layout';
 
 import createRenderer from './renderer';
 import { version } from '../package.json';

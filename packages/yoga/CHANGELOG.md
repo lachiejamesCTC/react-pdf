@@ -1,4 +1,4 @@
-# @react-pdf/yoga
+# @lachie-pdf/yoga
 
 ## 3.0.0
 
